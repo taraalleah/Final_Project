@@ -1,1 +1,1 @@
-{"bp": 120, "timestamp": 1234556636364353, "patient": "Dummy", "hr": 40}
+[{"bp": 130, "hr": 999, "patient": "alien", "timestamp": 1234556636342424}, {"bp": 120, "timestamp": 1234556636342424, "patient": "disguy", "hr": 44}, {"bp": 128, "hr": 77, "patient": "Johnny Sins", "timestamp": 1234556636342424}, {"bp": 138, "timestamp": 1234556533342424, "patient": "Hillary Clinton", "hr": 90}]
