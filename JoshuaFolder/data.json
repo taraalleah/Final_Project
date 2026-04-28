@@ -1,1 +1,1 @@
-[{"bp": 130, "hr": 999, "patient": "alien", "timestamp": 1234556636342424}, {"bp": 120, "timestamp": 1234556636342424, "patient": "disguy", "hr": 44}, {"bp": 128, "hr": 77, "patient": "Johnny Sins", "timestamp": 1234556636342424}, {"bp": 138, "timestamp": 1234556533342424, "patient": "Hillary Clinton", "hr": 90}]
+[{"bp": 120, "hr": 80, "patient": "A", "timestamp": 1}, {"bp": 122, "timestamp": 2, "patient": "B", "hr": 85}, {"bp": 125, "hr": 90, "patient": "C", "timestamp": 3}, {"bp": 120, "timestamp": 1, "patient": "test", "hr": 85}]
